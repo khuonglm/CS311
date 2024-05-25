@@ -1,4 +1,4 @@
-# CS311: Computer Organization
+# CS311: Computer Organization KAIST
 
 Project 1: 100/100
 
