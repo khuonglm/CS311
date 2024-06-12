@@ -6,4 +6,4 @@ Project 2: 90/100 (reason: can not write to register 0, this also happens in mid
 
 Project 3: 100/100
 
-Project 4: Grading
+Project 4: 100/100
